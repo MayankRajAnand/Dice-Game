@@ -1,0 +1,38 @@
+body{
+  background-color: #32e0c4;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 6rem;
+  color:#af2d2d;
+}
+h2{
+  font-family: 'Permanent Marker', cursive;
+  font-size:4rem;
+  color:#ff414d;
+}
+h3{
+  font-family: 'Nerko One', cursive;
+  font-size: 3rem;
+  color:#f05454;
+}
+h4{
+  color:#f05454;
+}
+img{
+  width:40%;
+}
+.container
+{
+  text-align:center;
+
+}
+.dice{
+  text-align:center;
+  display:inline-block;
+  padding:3%;
+
+}
+footer{
+  text-align:center;
+}
